@@ -23,3 +23,5 @@ python train.py
 
 # Bắt đầu chat
 python chat.py
+
+https://medium.com/%40abdulelahalwainany/build-your-own-chatbot-with-tensorflow-a-step-by-step-guide-afc374c40958
