@@ -1,0 +1,47 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# --- Virtual environment ---
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# --- OS generated files ---
+.DS_Store
+Thumbs.db
+
+# --- Model & training artifacts ---
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+checkpoint
+saved_model/
+logs/
+
+# --- NLTK data ---
+nltk_data/
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- VS Code ---
+.vscode/
+.history/
+
+# --- Environment files ---
+.env
+.env.*
+*.env
+
+# --- Cache ---
+*.log
+*.tmp
+*.cache
